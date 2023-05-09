@@ -1,0 +1,102 @@
+.bg-menu{ background-color: #7b1fa2; text-align: center;}
+/*****************************icon********************************************************/
+.fa-solid { margin-left: 4px; font-size: larger;}
+/******************************nav item****************************************/
+.menu .nav-item .nav-link{ color: azure !important; margin-right: 10px; text-align: center;}
+.menu .nav-item .nav-link:hover { background-color: violet; border-radius: 8px;}
+/**************************************dropdown hover**********************************************************/
+.dropdown:hover .dropdown-menu{ display: block;}
+/****************************************************************************************/
+.nav-item i{ margin-left: 5px;}
+/********************************dropdown-item*************************************************/
+.dropdown-item{ text-align: center; background-color: violet; height:100%;}
+/***************************navbar-brand**************************************/
+.navbar-brand{ color:violet}
+.navbar-brand:hover{ color: aliceblue;}
+/************************************.btn-search**********************************************************/
+.btn-search { background-color: violet; margin-right: 5px; color: antiquewhite;}
+.btn-search:hover{ background-color: bisque; color: violet;}
+/****************************************************************************************/
+.bg-btn-res{ background-color: antiquewhite;}
+/**********************************************************************************************/
+.btn-search-p { width: 1000px; margin-right: 60px; margin-top: 40px; background-color: aliceblue;
+     color: #7b1fa2;}
+ .btn-search-p:hover { background-color: #7b1fa2; color: aliceblue;}
+ /******************************************************************************************/
+ .dropdown-menu{ padding: 0%;}
+ /*****************************************search-page-products***************************/
+ .search-page-products { background-color:#7b1fa2; width:100%; height: 100px; margin-top: 10px;
+ padding: 5px; text-align: center; border-radius: 15px;}
+ /***************************************search-box******************************************/
+ .search-box { position: relative; width: 80%;margin-right: 80px; margin-top: 20px; }
+ /*****************************************************************************************/
+ .search-box input { width: 100%; height: 40px; padding-right: 200px; font-size: 17px; border:none;
+  background-color:#d6bce0;  }
+ /*******************************************************************************************/
+ .search-box input:hover{ background-color: bisque}
+ /********************************************************************************************/
+ .search-box button{ position: absolute; top: 0%; right: 0%; height: 40px; border: none;
+padding: 0 15px; cursor: pointer; font-size: 15px; background-color: #290c35; color: aliceblue;} 
+ /*****************************************st_text******************************/
+ .st_text { color: #110118; font-size: 50px; text-align: center; margin-top: 20px; font-family:'yekan';}
+ /*******************************hr**************************************/
+ .st_text hr{ border: black solid 1px; width: 350px; margin: auto;}
+ /**********************************product hover*****************************/
+ .product-item:hover { transform: translateY(-30px); transition: transform 2s;}
+ /******************************product-item***********************/
+ .product-item { background-color: white; text-align: center;margin-top: 30px;
+ border-radius: 20px; box-shadow: rgb(0,0,0,0.35) 0 5px 15px; margin-bottom: 30px; margin-right: 10px;
+}
+ /***********************************button***************************************/
+ .button{ background-color:#7b1fa2; border-radius: 0 0 25px 25px ; padding: 8px; line-height: 40px;
+margin: auto; color: white; font-size: 18px;}
+/***************image***************************************************************/
+.product-item .image img { width: 100%; margin-bottom: 15px;}
+/*********************************category*******************************/
+.product-item .category { font-size: 25px;}
+/********************price***********************************/
+.product-item .price { font-size: 20px; margin-top: 10px; margin-bottom: 10px;}
+/************************footer**************************/
+.footer { width: 100%; height: 400px; background-color: #290c35; margin-bottom: 40px;
+ border-radius: 0 0 20px 20px;}
+ /***************************************************/
+ .footer i { color: #d6bce0; margin-inline: 30px; margin-top: 10px; font-size: 25px; cursor: pointer}
+ /******************************hr footer****************/
+ .footer hr { color: white; height: 4px;  }
+ /********************************************************/
+ .about-us { color: beige; margin-top: 10px; font-size: 23px;
+   width: 200px; float: right;}
+ /******************************************************/
+ .about-us li { font-size: 18px; list-style: none;}
+ .about-us hr { color: antiquewhite; width: 100px;}
+ /***********************************************/
+ .guide { color: beige; margin-right: 80px; list-style: none; font-size: 23px; margin-top: 10px;
+  width: 200px; float: right;}
+ .guide li { font-size: 18px}
+ /************************************************/
+ .service{ color: beige; margin-right: 150px; list-style: none; font-size: 23px; margin-top: 10px;
+    width: 300px; float: right; }
+.service li{font-size: 18px}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/***********************************login page style******************************************/
+.wrapper{ text-align: center; background-color: #6b4e77;
+ border-radius: 0 0 20px 20px ; height: 80%;   padding:50px;}
+/*****************************name******************/
+.name .col input {background-color: #d6c2df;}
+/**********************************/
+.gender{ margin-right: 420px; color: white;}

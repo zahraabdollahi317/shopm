@@ -1,0 +1,17 @@
+/* CSS Document */
+
+
+
+
+@font-face{
+	font-family:'Yekan';
+    src:url('../font/BYekan.ttf')   format('truetype'), 
+    url('../font/BYekan.eot?#') 	 format('eot'), 
+   	url('../font/BYekan.woff')      format('woff');
+	font-style:normal;
+	font-weight:normal;
+}
+		body{
+		font-family:'Yekan';
+
+}
